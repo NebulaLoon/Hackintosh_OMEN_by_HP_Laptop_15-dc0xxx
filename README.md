@@ -24,7 +24,7 @@ BIOS | F.17
   
 ### 安装教程：  
 国光的黑苹果安装教程：https://apple.sqlsec.com/   
-  
+
   
 ### 存在的问题：  
 1. NVIDIA GeForce GTX1050Ti：   *已屏蔽*   
@@ -46,4 +46,15 @@ OpenCore Post-Install：https://dortania.github.io/OpenCore-Post-Install/
 Getting Started With ACPI：https://dortania.github.io/Getting-Started-With-ACPI/  
 国光的黑苹果安装教程：https://apple.sqlsec.com/  
 远景论坛：https://www.pcbeta.com/  
-特别感谢Harris Moore大佬的EFI配置参考，少走了很多弯路。https://github.com/sunmousn/OMEN-by-HP-Laptop-15-dc0xxx 
+特别感谢Harris Moore大佬的EFI配置参考，少走了很多弯路。https://github.com/sunmousn/OMEN-by-HP-Laptop-15-dc0xxx   
+
+### 截图： 
+<img width="1440" alt="截屏2022-08-29 23 21 40" src="https://user-images.githubusercontent.com/41841456/187238430-7333eda7-24f8-47b6-ba8c-c5af390a2e20.png">
+
+<img width="1440" alt="截屏2022-08-29 23 24 35" src="https://user-images.githubusercontent.com/41841456/187238451-c34bc280-e3e1-4cbe-b61c-2d792f549e46.png">
+
+
+
+
+
+
