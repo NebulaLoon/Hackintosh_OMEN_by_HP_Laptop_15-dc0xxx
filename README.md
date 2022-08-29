@@ -51,8 +51,8 @@ Getting Started With ACPI：https://dortania.github.io/Getting-Started-With-ACPI
 ### 截图： 
 <img width="1440" alt="截屏2022-08-29 23 21 40" src="https://user-images.githubusercontent.com/41841456/187238430-7333eda7-24f8-47b6-ba8c-c5af390a2e20.png">
 
-<img width="1440" alt="截屏2022-08-29 23 24 35" src="https://user-images.githubusercontent.com/41841456/187238451-c34bc280-e3e1-4cbe-b61c-2d792f549e46.png">
 
+<img width="1440" alt="截屏2022-08-29 23 24 35" src="https://user-images.githubusercontent.com/41841456/187252984-09b298b3-8204-47dd-b7d2-b2c8831c848a.png">
 
 
 
