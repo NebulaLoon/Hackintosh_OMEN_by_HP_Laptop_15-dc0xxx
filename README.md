@@ -28,12 +28,12 @@ BIOS | F.17
   
 ### 存在的问题：  
 1. NVIDIA GeForce GTX1050Ti：   *已屏蔽*   
-        [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)项目中，已实现对 Nvidia Web 驱动程序的支持，目前处于Alpha版本。  [[参考链接]](https://github.com/dortania/OpenCore-Legacy-Patcher/pull/993)  
+        [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)项目中，已实现对 Nvidia 驱动程序的支持，目前处于Alpha版本。  [[参考链接]](https://github.com/dortania/OpenCore-Legacy-Patcher/pull/993)  
 2. 键盘灯：  *暂时未修复，FN+F4为睡眠。其他FN功能正常*  
         本人较忙，有空再修复。[[参考链接]](https://github.com/daliansky/OC-little/tree/master/07-PS2%E9%94%AE%E7%9B%98%E6%98%A0%E5%B0%84%E5%8F%8A%E4%BA%AE%E5%BA%A6%E5%BF%AB%E6%8D%B7%E9%94%AE)  
 3. HDMI接口：    *无相关硬件，无法测试*  
 4. 隔空投送：    *暂时无解，可更换Broadcom无线网卡*  
-5. 有其它问题，欢迎issues  
+5. 有其它问题，欢迎[issues](https://github.com/StarryNightThor/Hackintosh_OMEN_by_HP_Laptop_15-dc0xxx/issues)    
   
   
 ### 优化：  
