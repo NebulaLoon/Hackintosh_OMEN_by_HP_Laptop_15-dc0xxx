@@ -9,7 +9,8 @@
 CPU | Intel Core i5-8300H  
 GPU | Intel UHD Graphics 630 + NVIDIA GeForce GTX1050Ti  
 声卡 | Realtek ALC295  
-网卡 | Realtek RTL8111 + Intel Wireless-AC 9560  
+网卡 | Realtek RTL8111 + Intel Wireless-AC 9560
+蓝牙 | Intel Bluetooth 
 硬盘 | LITEON SSD + KIOXIA SSD  
 主板 | HP 84DA  
 BIOS | F.17  
@@ -28,7 +29,7 @@ BIOS | F.17
   
 ### 存在的问题：  
 * NVIDIA GeForce GTX1050Ti：   *[已屏蔽]*   
-        ----[OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)项目中，已实现对 Nvidia 驱动程序的支持，目前处于Alpha版本。  [[参考链接]](https://github.com/dortania/OpenCore-Legacy-Patcher/pull/993)  
+        ----[OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)项目中，已实现在对 Nvidia 驱动程序的支持，目前处于Alpha版本。  [[参考链接]](https://github.com/dortania/OpenCore-Legacy-Patcher/pull/993)  
 * 键盘灯：  *[暂未修复]*  
         ----FN+F4为睡眠,可在开机时设置。[[参考链接]](https://github.com/daliansky/OC-little/tree/master/07-PS2%E9%94%AE%E7%9B%98%E6%98%A0%E5%B0%84%E5%8F%8A%E4%BA%AE%E5%BA%A6%E5%BF%AB%E6%8D%B7%E9%94%AE)  
 * HDMI接口：    *[无相关硬件，无法测试]*  
